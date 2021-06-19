@@ -121,6 +121,16 @@ body{
 	text-align: center;
 	font-size: 29;
 }
+.modal-header {
+	background-color: #ffcc99;
+}
+.modal-body{
+	background-color: #ffffcc;
+}
+.modal-footer{
+	background-color: #ffffcc;
+
+}
 
 .gallery-grids{
 	margin-top: 15px;
