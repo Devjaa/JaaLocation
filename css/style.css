@@ -1,7 +1,7 @@
 body{
 	padding: 0;
 	margin: 0 auto;
-	background-color: orange;
+	background-color: #ffcc99;
 }
 
 #Centre1{
@@ -109,6 +109,7 @@ body{
 
 #outlook {
 	margin-bottom: 20px;
+	background-color: #ffcc33;
 }
 
 #Mercedes{
@@ -126,6 +127,7 @@ body{
 }
 .modal-body{
 	background-color: #ffffcc;
+	text-align: center;
 }
 .modal-footer{
 	background-color: #ffffcc;
@@ -152,7 +154,7 @@ p.comment-form-author {
 .contact-form label {
     display: block;
     font-size: 1em;
-    color: #521DE0;
+    color: white;
     text-transform: uppercase;
     font-weight: 400;
     margin-bottom: 0.5em;
@@ -207,7 +209,7 @@ p.comment-form-author {
 .span_2_of_contact_right h3 {
 	font-size: 1.2em;
     font-weight: 400;
-    color: #18C9D2;
+    color: white;
     margin-bottom: 1em;
     text-transform: uppercase;
 }
